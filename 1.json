@@ -1,0 +1,83 @@
+{
+  'cmd': 'DANMU_MSG',
+  'info': [
+    [
+      0,
+      1,
+      25,
+      14893055,
+      1662123010335,
+      1662037061,
+      0,
+      'e55273fa',
+      0,
+      0,
+      5,
+      '#1453BAFF,#4C2263A2,#3353BAFF',
+      0,
+      '{}',
+      '{}',
+      {
+        'mode': 0,
+        'show_player_type': 0,
+        'extra': '{"send_from_me":false,"mode":0,"color":14893055,"dm_type":0,"font_size":25,"player_mode":1,"show_player_type":0,"content":"猫雷最强！","user_hash":"3847386106","emoticon_unique":"","bulge_display":0,"recommend_score":10,"main_state_dm_color":"","objective_state_dm_color":"","direction":0,"pk_direction":0,"quartet_direction":0,"anniversary_crowd":0,"yeah_space_type":"","yeah_space_url":"","jump_to_url":"","space_type":"","space_url":""}'
+      },
+      {
+        'activity_identity': '',
+        'activity_source': 0,
+        'not_show': 0
+      }
+    ],
+    '猫雷最强！',
+    [
+      1015927764,
+      '車行山頭必翻車',
+      0,
+      0,
+      0,
+      10000,
+      1,
+      '#00D1F1'
+    ],
+    [
+      17,
+      '玲玲軍',
+      '琥珀玲_Official',
+      24044804,
+      13081892,
+      '',
+      0,
+      13081892,
+      13081892,
+      13081892,
+      0,
+      1,
+      1723100461
+    ],
+    [
+      16,
+      0,
+      6406234,
+      '>50000',
+      0
+    ],
+    [
+      '',
+      ''
+    ],
+    0,
+    3,
+    None,
+    {
+      'ts': 1662123010,
+      'ct': '56AEA4ED'
+    },
+    0,
+    0,
+    None,
+    None,
+    0,
+    105
+  ]
+}
+

@@ -1,0 +1,82 @@
+{
+  'cmd': 'DANMU_MSG',
+  'info': [
+    [
+      0,
+      1,
+      25,
+      16777215,
+      1662124878815,
+      1658112594,
+      0,
+      '4bee2e98',
+      0,
+      0,
+      0,
+      '',
+      0,
+      '{}',
+      '{}',
+      {
+        'mode': 0,
+        'show_player_type': 0,
+        'extra': '{"send_from_me":false,"mode":0,"color":16777215,"dm_type":0,"font_size":25,"player_mode":1,"show_player_type":0,"content":"G——7——人——","user_hash":"1273900696","emoticon_unique":"","bulge_display":0,"recommend_score":10,"main_state_dm_color":"","objective_state_dm_color":"","direction":0,"pk_direction":0,"quartet_direction":0,"anniversary_crowd":0,"yeah_space_type":"","yeah_space_url":"","jump_to_url":"","space_type":"","space_url":""}'
+      },
+      {
+        'activity_identity': '',
+        'activity_source': 0,
+        'not_show': 0
+      }
+    ],
+    'G——7——人——',
+    [
+      8540019,
+      '星空余温',
+      0,
+      0,
+      0,
+      10000,
+      1,
+      ''
+    ],
+    [
+      8,
+      '星奈组',
+      '星奈铃-官方WACTOR',
+      23089686,
+      6126494,
+      '',
+      0,
+      6126494,
+      6126494,
+      6126494,
+      0,
+      1,
+      1089059487
+    ],
+    [
+      21,
+      0,
+      5805790,
+      '>50000',
+      0
+    ],
+    [
+      '',
+      ''
+    ],
+    0,
+    0,
+    None,
+    {
+      'ts': 1662124878,
+      'ct': '8323C146'
+    },
+    0,
+    0,
+    None,
+    None,
+    0,
+    21
+  ]
+}
